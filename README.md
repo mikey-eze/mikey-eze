@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="./saif-animation.svg" alt="SAIF animated profile artwork" width="100%" />
+<img src="./saif-animation.svg" alt="SAIF" width="100%" />
 
-<br />
+<br>
 
-### software · AI · systems
+### software · ai · systems
 
 > *I like turning ideas into things that work.*
 
-<br />
+<br>
 
+
+<a href="https://github.com/mikey-eze">PIKACHU</a>
+
+</div>
