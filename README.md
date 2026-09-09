@@ -4,7 +4,7 @@
 
 <br />
 
-### software · ai · systems
+### Software · AI · Systems
 
 > *I like turning ideas into things that work.*
 
