@@ -10,9 +10,23 @@
 
 <br />
 
-`Python` · `Java` · `JavaScript` · `Android` · `AI/ML`
+**LANGUAGES**
 
-<br /><br />
+`Python` · `Java` · `JavaScript`
+
+**BUILDING**
+
+`Android` · `Node.js` · `Full-Stack Web`
+
+**AI / COMPUTER VISION**
+
+`AI/ML` · `Computer Vision` · `OCR` · `PaddleOCR` · `Ollama` · `Gemma 3 Vision`
+
+**TOOLS**
+
+`Git` · `GitHub` · `VS Code` · `Android Studio`
+
+<br />
 
 <a href="https://github.com/mikey-eze">github</a>
 
